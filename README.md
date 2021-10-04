@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Izail-Hitori
-just a beginner -  
+Yo 👋 @Izail-Hitori desu 
+[ff0000] just a beginner | slight otaku 
 
 <!---
 Izail-Hitori/Izail-Hitori is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
